@@ -60,3 +60,52 @@ Working in AI-native environments to allow aysnc agents to work autonomously.
 ### The Road Ahead
 """As agents become autonomous and our whole team become builders, we need to reshape every part of our developer platforms"""
 Netlify provided Axis, an open-source framework developed to rate the agent experience.
+
+### Scribe: Mike Wasserman
+- Turn imagination into reality 
+- AI Assistance hels us do more
+  - supervising car driving instead of manually driving
+  - looking forward to autonomy
+  - changes how we think about commuting, rethink surrounding infra
+- Copilot in the IDE came after driving assistance - some minor help
+- Then build with an AI agent - describe an idea and agent builds for you
+  - Universal hands-free
+- AI Assistance lets us do much more
+  - can fundamentally change what companies do
+  - unlocking software development resources in other departments
+- From Assistance to Autonomy
+  - Openclaw owns a computer and interacts with you
+  - Live demo of using a selfie to update presentation
+- Autonomous cars make us rethink cities
+  - Autonoms agents make use rethink our work
+- Expands the population of who is a builder
+  - Big impact on Netlify
+- AX (Agent Experience)
+  - Today: is crtiical for infra nad dev tools
+  - Tomorrow: your products won't exceed without it
+- How to AX: Prompt -> Agent Loop -> Goal
+  - Agent loop is: llms <-> context + tool calls <-> your product
+  - Access, Context, Tools, Orchestration
+- Access:
+  - Bot Gmail account blocked for being a bot
+  - netlify.ai: for humans and agents (humans get instructions, agents get markdown)
+  - Netlify database - service for agents 
+  - self-auth UUID for agents
+- Context:
+  - Docs as context; offer markdown variants of every page
+  - Header requests markdown
+  - MCP: UI for LLMs; universal way to expose context
+  - Skills: steering the context of the agent
+  - API vs MCP - same product different surfaces
+- Tools:
+  - Netlity has 100 Endpoints; would overwhelm agent
+  - instead offer 5 tools via MCP
+  - Agents use your product regardless; without AX, it's just a bad experience
+  - Iterated on Netlify CLI - initially bad UX; helped with simmple mode
+- Orchestration:
+  - Offering agent workflows in products you use; better integrations
+  - Async agents working autonomously
+- As agents become autonomous and the whole team becomes builders, need to reshape every part of our developer platforms 
+- Axis.run - open source project to automate agents testing your product
+- Thank you slide was updated by agent, woohoo!
+  

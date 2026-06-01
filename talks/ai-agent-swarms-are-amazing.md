@@ -50,3 +50,42 @@ Reference: agentdungeon.ai
 Your agents playing D&D
 
 Takeaway: """Agent swarms are hard af (but really fun)"""
+
+### Scribe: Mike Wasserman
+- Excited 10, 100, 1000 agents running; hard to actually do
+- Build education products - AIHero
+- Personal GitHub commit history explodes with Claude Opus release
+- AI Engineering: Prompt -> Context -> Harness engineering
+- Harness is everything around the model
+  - Dystem prompts, tools, skills, mcp,  bundled infra, orchestration logic, hooks and middleware, observabiility (history)
+- Context is around the harness
+- Every mistake is an opportunity to make a rule
+- Swarm project in OpenCode
+  - Fun to build, even if other work supercedes
+  - Anthropic actually banned opencode
+- mattpocock/skills: AI Skills for real engineers
+- OpenClaw
+  - Soul.md - give agent identity
+  - Your harness should make you smile
+  - Pi open source agent harness with more control
+  - Used Pi to build joelclaw.com
+  - Pi is novel in ability to change itself; 
+- Nico Ballon builds Pi extensions; like Pi Subagents
+- pi-cmux: replacement for terminal or ghosty
+- pi-notes: mdx / mdsvx for documentation
+  - Second brain, obsidian
+- pi-feedback: lots of turns with agents, give agent feedback
+- AIHero has lots of users -> great, but turns into support inbox volume
+  - Hundreds of emails per day, need to automate
+  - but people don't like slop, it makes promises for you...
+  - building notes and memory over time
+- agentdungeon.ai
+  - swarms running, agents playing D&D, one DM others as players
+  - simulation of work, PM direction, eng execution, separate knowledge
+  - added permadeath, tell agents they're deleted if their character dies
+  - Durable objects - mini computer
+  - follow: sunil pai, dillon mulroy
+- Agent swarms are hard, but worthwhile
+  - addy osmani - 
+  - "your conginitive bandwidth doesnt' parallelize"
+  - https://cascadia.wzrrd.sh/
