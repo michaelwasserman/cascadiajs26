@@ -5,6 +5,6 @@
 - [Speaker's Notes (Placeholder)]()
 - [Post-conference YouTube Recording (Placeholder)]()
 ## Abstract: 
+N/A
 
-undefined
 ## Community talk notes: 
